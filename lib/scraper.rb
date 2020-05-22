@@ -43,8 +43,6 @@ class Scraper
   def print_courses
   end
 
-end
-end
 
 
 Scraper.new.get_page
